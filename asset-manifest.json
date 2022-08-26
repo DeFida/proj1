@@ -1,32 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c44b4487.css",
-    "main.js": "/static/js/main.dc784871.js",
+    "main.css": "/static/css/main.a575f583.css",
+    "main.js": "/static/js/main.71de4689.js",
     "static/js/787.ba5c9393.chunk.js": "/static/js/787.ba5c9393.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.2a2d37bf7680d86811db.ttf",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.647f0e61af3a76a138c3.ttf",
-    "static/media/humidity.svg": "/static/media/humidity.a61e4cc262d99406e0cf6e8def5c7484.svg",
-    "static/media/temp_dark.svg": "/static/media/temp_dark.4ac274fb45e479b5eb134076f9afaa13.svg",
-    "static/media/temp_light.svg": "/static/media/temp_light.d9e2805584415b0d1b8017d81903facf.svg",
-    "static/media/Snow.svg": "/static/media/Snow.0571c07c6c6f2afbdc24d062ce9c7e37.svg",
-    "static/media/Rain.svg": "/static/media/Rain.f5a6624ecd0ff1cd41b35f9a0f5f0509.svg",
-    "static/media/Extreme.svg": "/static/media/Extreme.304c4ee729f21eb7660fb809ff40e7be.svg",
-    "static/media/thermometer.svg": "/static/media/thermometer.290e600eba5a64882dd587b4f7854613.svg",
-    "static/media/sunset.svg": "/static/media/sunset.7f6feb3d075d2793e454de0690d9685e.svg",
-    "static/media/time-morning.svg": "/static/media/time-morning.896f5a009d92f80ea351ff3705b632fa.svg",
-    "static/media/pressure.svg": "/static/media/pressure.61bbfb382c4f397f45e488da13a3d8ea.svg",
-    "static/media/wind.svg": "/static/media/wind.dd7535781f42a3541aca2732af46865d.svg",
-    "static/media/Clear.svg": "/static/media/Clear.2909a175d21b0bc0a0c5cc4d70ede315.svg",
-    "static/media/Clouds.svg": "/static/media/Clouds.73c058e1e92399013d7c41be494b9ac0.svg",
-    "static/media/cloudy.svg": "/static/media/cloudy.73c058e1e92399013d7c41be494b9ac0.svg",
     "index.html": "/index.html",
-    "main.c44b4487.css.map": "/static/css/main.c44b4487.css.map",
-    "main.dc784871.js.map": "/static/js/main.dc784871.js.map",
+    "main.a575f583.css.map": "/static/css/main.a575f583.css.map",
+    "main.71de4689.js.map": "/static/js/main.71de4689.js.map",
     "787.ba5c9393.chunk.js.map": "/static/js/787.ba5c9393.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c44b4487.css",
-    "static/js/main.dc784871.js"
+    "static/css/main.a575f583.css",
+    "static/js/main.71de4689.js"
   ]
 }
